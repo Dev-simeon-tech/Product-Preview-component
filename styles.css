@@ -116,4 +116,9 @@ button:hover{
     .cont-2 p{
         max-width: 30ch;
     }
+    button{
+        padding: 12px 87px;
+        
+    }
+
 }
