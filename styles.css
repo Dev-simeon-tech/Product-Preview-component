@@ -83,7 +83,7 @@ button{
     background-color: var(--primary-clr-1);
     border: none;
     border-radius: 6px;
-   padding: 12px 65px;
+   padding: 12px 85px;
    font-family:'Montserrat', sans-serif ;
    color: white;
    transition: all 0.3s ease-in-out;
